@@ -1,0 +1,67 @@
+{
+    "Rules": [
+        {
+            "Rule": "Rule_1",
+            "Details": [
+                {"WL": "50%", "Supports_2nd_family": "Yes", "Arrears_of_more_than_12_weeks": "No","de_gt_145": "No","order_gt_one": "No"},
+                {"WL": "55%", "Supports_2nd_family": "Yes", "Arrears_of_more_than_12_weeks": "Yes","de_gt_145": "No","order_gt_one": "No"},
+                {"WL": "60%", "Supports_2nd_family": "No", "Arrears_of_more_than_12_weeks": "No","de_gt_145": "No","order_gt_one": "No"},
+                {"WL": "65%", "Supports_2nd_family": "No", "Arrears_of_more_than_12_weeks": "Yes","de_gt_145": "No","order_gt_one": "No"}
+            ]
+        },{
+            "Rule": "Rule_2",
+            "Details": [
+                {"WL": "40%", "Supports_2nd_family": "Yes", "Arrears_of_more_than_12_weeks": "No","de_gt_145": "No", "order_gt_one": "No"},
+                {"WL": "40%", "Supports_2nd_family": "Yes", "Arrears_of_more_than_12_weeks": "Yes","de_gt_145": "No", "order_gt_one": "No"},
+                {"WL": "40%", "Supports_2nd_family": "No", "Arrears_of_more_than_12_weeks": "No","de_gt_145": "No", "order_gt_one": "No"},
+                {"WL": "40%", "Supports_2nd_family": "No", "Arrears_of_more_than_12_weeks": "Yes","de_gt_145": "No", "order_gt_one": "No"},
+                {"WL": "40%", "Supports_2nd_family": "", "Arrears_of_more_than_12_weeks": "","de_gt_145": "No", "order_gt_one": "No"}
+
+            ]
+        },
+             {
+            "Rule": "Rule_3",
+            "Details": [
+                {"WL": "50%", "Supports_2nd_family": "Yes", "Arrears_of_more_than_12_weeks": "No","de_gt_145": "No", "order_gt_one": "No"},
+                {"WL": "50%", "Supports_2nd_family": "Yes", "Arrears_of_more_than_12_weeks": "Yes","de_gt_145": "No", "order_gt_one": "No"},
+                {"WL": "50%", "Supports_2nd_family": "No", "Arrears_of_more_than_12_weeks": "No","de_gt_145": "No", "order_gt_one": "No"},
+                {"WL": "50%", "Supports_2nd_family": "No", "Arrears_of_more_than_12_weeks": "Yes","de_gt_145": "No", "order_gt_one": "No"},
+                {"WL": "50%", "Supports_2nd_family": "", "Arrears_of_more_than_12_weeks": "","de_gt_145": "No", "order_gt_one": "No"}
+
+            ]
+
+
+        },
+        {
+            "Rule": "Rule_4",
+            "Details": [
+                {"WL": "40%", "Supports_2nd_family": "No", "Arrears_of_more_than_12_weeks": "","de_gt_145": "No","order_gt_one": "No"},
+                {"WL": "40%", "Supports_2nd_family": "Yes", "Arrears_of_more_than_12_weeks": "","de_gt_145": "No","order_gt_one": "No"},
+                {"WL": "45%", "Supports_2nd_family": "Yes", "Arrears_of_more_than_12_weeks": "","de_gt_145": "No","order_gt_one": "Yes"},
+                {"WL": "50%", "Supports_2nd_family": "No", "Arrears_of_more_than_12_weeks": "","de_gt_145": "No","order_gt_one": "Yes"}
+
+
+            ]
+        },
+        {
+            "Rule": "Rule_5",
+            "Details": [
+                {"WL": "40%", "Supports_2nd_family": "Yes", "Arrears_of_more_than_12_weeks": "No","de_gt_145": "No","order_gt_one": "No"},
+                {"WL": "45%", "Supports_2nd_family": "Yes", "Arrears_of_more_than_12_weeks": "Yes","de_gt_145": "No","order_gt_one": "No"},
+                {"WL": "50%", "Supports_2nd_family": "No", "Arrears_of_more_than_12_weeks": "No","de_gt_145": "No","order_gt_one": "No"},
+                {"WL": "55%", "Supports_2nd_family": "No", "Arrears_of_more_than_12_weeks": "Yes","de_gt_145": "No","order_gt_one": "No"}
+            ]
+        },
+        {
+            "Rule": "Rule_6",
+            "Details": [
+                {"WL": "50%", "Supports_2nd_family": "Yes", "Arrears_of_more_than_12_weeks": "No", "de_gt_145": "Yes","order_gt_one": "No"},
+                {"WL": "55%", "Supports_2nd_family": "Yes", "Arrears_of_more_than_12_weeks": "Yes", "de_gt_145": "Yes","order_gt_one": "No"},
+                {"WL": "60%", "Supports_2nd_family": "No", "Arrears_of_more_than_12_weeks": "No", "de_gt_145": "Yes","order_gt_one": "No"},
+                {"WL": "65%", "Supports_2nd_family": "No", "Arrears_of_more_than_12_weeks": "Yes", "de_gt_145": "Yes","order_gt_one": "No"},
+                {"WL": "15%", "Supports_2nd_family": "", "Arrears_of_more_than_12_weeks": "", "de_gt_145": "No","order_gt_one": "No"}
+
+            ]
+        }
+    ]
+}

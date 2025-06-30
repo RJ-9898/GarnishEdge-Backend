@@ -1,0 +1,93 @@
+from django.urls import path
+from ..views import *
+from ..views.views import *
+from django.urls import include, path
+from rest_framework_simplejwt.views import (
+    TokenObtainPairView, TokenRefreshView)
+
+urlpatterns = [
+    path("register", RegisterAPIView.as_view(), name="register"),
+    path('api/token/', TokenObtainPairView.as_view(), name='token_obtain_pair'),
+    path('api/token/refresh/', CustomTokenRefreshView.as_view(), name='token_refresh'),
+    path("login", LoginAPIView.as_view(), name="login"),
+    path('logout', LogoutAPIView.as_view(), name='logout'),
+    # path('employer-profile/', EmployerProfileAPIView.as_view(), name='employer_profile'),
+    path('employee_details/', EmployeeDetailsAPIView.as_view(),
+         name='employee_details'),
+    path('update_employee_details/<str:case_id>/<str:ee_id>/',
+         EmployeeDetailsUpdateAPIView.as_view(), name='Employee_Details_UpdateAPIView'),
+    path('employer_profile/<int:id>/', EmployerProfileEditView.as_view(),
+         name='Employer_Profile_UpdateAPIView'),
+    path('getemployerdetails/<int:id>/', get_employer_details,
+         name='employer-detail-by-employer-id'),
+    path('DashboardData', get_dashboard_data, name='iwo_dashboard'),
+    path('IWO_Data', insert_iwo_detail, name='iwo_pdf_data'),
+    path('ConvertExcelToJson', convert_excel_to_json.as_view(),
+         name='ConvertExcelToJson'),
+    path('EmployeeDelete/<str:case_id>/<str:ee_id>/',
+         EmployeeDeleteAPIView.as_view(), name='Employee-Delete-APIView'),
+    path('GarOrderDelete/<str:case_id>/', GarOrderDeleteAPIView.as_view(),
+         name='Gar-Order-Delete-APIView'),
+    path('ExportEmployees/', export_employee_data, name='export-employee-data'),
+    path('EmployeeImportView/', EmployeeImportView.as_view(),
+         name='Employee-Import-View'),
+    path('OrderImport/', GarnishmentOrderImportView.as_view(),
+         name='Garnishment-Order-Import-View'),
+    path('logdata', LastFiveLogsView.as_view(),
+         name=' Garnishment Calculation'),
+    path('GetAllemployerdetail', EmployerProfileList.as_view(),
+         name='employer-profile-list'),
+    path('GetAllEmplloyeeDetail', EmployeeDetailsList.as_view(),
+         name='employer-profile-list'),
+    path('GetSingleEmployee/<str:case_id>/<str:ee_id>/',
+         get_single_employee_details, name='get-single-employee-details'),
+    path('GetOrderDetails/', get_order_details, name='get_order_details'),
+    path('password-reset', PasswordResetRequestView.as_view(),
+         name='password-reset-request'),
+    path('password-reset-confirm/<str:token>/',
+         PasswordResetConfirmView.as_view(), name='password-reset-confirm'),
+    path('setting/<int:employer_id>/',
+         GETSettingDetails.as_view(), name='Get Setting'),
+    path('POSTsetting/', SettingPostAPI, name='POST Setting'),
+    path('call-count/', APICallCountView.as_view(), name='api-call-count'),
+    # path('ChildSupportBatchResult/<str:batch_id>', ChildSupportGarnishmentBatchResult.as_view(), name='Calculation Data'),
+    path('upsert-employees-details/', UpsertEmployeeDataView.as_view(),
+         name='import_employees_api'),
+    path('upsert-gar-orders/', UpsertGarnishmentOrderView.as_view(),
+         name='upsert_garnishment_order'),
+    path('ExportOrder/', export_order_data, name='export_order_data'),
+    path('GarnishmentFeesStatesRules/', GETGarnishmentFeesStatesRule.as_view(),
+         name='GETGarnishmentFeesStatesRule'),
+    path('GarnishmentFeesRules/<str:rule>/',
+         GETGarnishmentFeesRules, name='GETGarnishmentFeesRules'),
+    path('GarnishmentFeesRulesUpdate/<str:rule>/',
+         GarFeesRulesUpdateAPIView.as_view(), name='GETGarnishmentFeesRules'),
+    path('GarnishmentFeesRulesBasedOnState/<str:state>/',
+         GarnishmentFeesRulesByState.as_view(), name='GarnishmentFeesRulesBasedOnState'),
+    path('EmployeeRules/', Employeegarnishment_orderMatch_details.as_view(),
+         name='employee-garnishment-match'),
+    path('garnishment_calculate/',
+         PostCalculationView.as_view(), name='Calculation Data'),
+    path('GarnishmentCalculationRules/<str:state>/<str:employee_id>/<str:supports_2nd_family>/<str:arrears_of_more_than_12_weeks>/<str:de>/<int:no_of_order>/',
+         GarCalculationRules.as_view(), name='Withholding Limit Rule Data'),
+    path('UploadIWOPdfFiles/', PDFUploadView.as_view()),
+    path('GetIWOPdfData/', GETIWOPDFData.as_view(), name='GetIWOPdfData'),
+
+    # This is for the state tax lwvy config
+    path('state-tax-levy-config-data/',
+         StateTaxLevyConfigAPIView.as_view(), name='StateTaxLevyRule'),
+    path('state-tax-levy-config-data/<str:state>',
+         StateTaxLevyConfigAPIView.as_view(), name='StateTaxLevyRule'),
+
+    # This is for the state tax levy rule
+    path('state-tax-levy-rule/<str:case_id>',
+         StateTaxLevyRuleAPIView.as_view(), name='StateTaxLevyRuleAPIView'),
+
+    # This is for the state tax levy rule edit request
+    path('state-tax-levy-rule-edit-request/', StateTaxLevyRuleEditPermissionAPIView.as_view(),
+         name='StateTaxLevyRuleEditPermissionAPIView'),
+    path('state-tax-levy-rule-edit-request/<str:state>',
+         StateTaxLevyRuleEditPermissionAPIView.as_view(), name='StateTaxLevyRuleEditPermissionAPIView'),
+
+
+]

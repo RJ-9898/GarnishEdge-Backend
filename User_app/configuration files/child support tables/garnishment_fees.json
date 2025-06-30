@@ -1,0 +1,174 @@
+{
+    "fees": [
+        {
+          "State": "Alabama",
+          "Type": "Child Support",
+          "Pay Period": "Weekly",
+          "Amount": 0.46
+        },
+        {
+          "State": "Alabama",
+          "Type": "Child Support",
+          "Pay Period": "Biweekly",
+          "Amount": 0.92
+        },
+        {
+          "State": "Alabama",
+          "Type": "Child Support",
+          "Pay Period": "Semimonthly",
+          "Amount": 1
+        },
+        {
+          "State": "Alabama",
+          "Type": "Child Support",
+          "Pay Period": "Monthly",
+          "Amount": 2
+        },
+        {
+          "State": "Alabama",
+          "Type": "State Tax",
+          "Pay Period": "Weekly",
+          "Amount": 0
+        },
+        {
+          "State": "Alabama",
+          "Type": "State Tax",
+          "Pay Period": "Biweekly",
+          "Amount": 0
+        },
+        {
+          "State": "Alabama",
+          "Type": "State Tax",
+          "Pay Period": "Semimonthly",
+          "Amount": 0
+        },
+        {
+          "State": "Alabama",
+          "Type": "State Tax",
+          "Pay Period": "Monthly",
+          "Amount": 0
+        },
+        {
+          "State": "Alabama",
+          "Type": "Student default loan",
+          "Pay Period": "Weekly",
+          "Amount": 0
+        },
+        {
+          "State": "Alabama",
+          "Type": "Student default loan",
+          "Pay Period": "Biweekly",
+          "Amount": 0
+        },
+        {
+          "State": "Alabama",
+          "Type": "Student default loan",
+          "Pay Period": "Semimonthly",
+          "Amount": 0
+        },
+        {
+          "State": "Alabama",
+          "Type": "Student default loan",
+          "Pay Period": "Monthly",
+          "Amount": 0
+        },
+        {
+          "State": "Alabama",
+          "Type": "Federal Tax",
+          "Pay Period": "Weekly",
+          "Amount": 0
+        },
+        {
+          "State": "Alabama",
+          "Type": "Federal Tax",
+          "Pay Period": "Biweekly",
+          "Amount": 0
+        },
+        {
+          "State": "Alabama",
+          "Type": "Federal Tax",
+          "Pay Period": "Semimonthly",
+          "Amount": 0
+        },
+        {
+          "State": "Alabama",
+          "Type": "Federal Tax",
+          "Pay Period": "Monthly",
+          "Amount": 0
+        },
+        {
+          "State": "Alaska",
+          "Type": "Child Support",
+          "Pay Period": "Weekly",
+          "Amount": 5
+        },
+        {
+          "State": "Alaska",
+          "Type": "Child Support",
+          "Pay Period": "Biweekly",
+          "Amount": 5
+        },
+        {
+          "State": "Alaska",
+          "Type": "Child Support",
+          "Pay Period": "Semimonthly",
+          "Amount": 5
+        },
+        {
+          "State": "Alaska",
+          "Type": "Child Support",
+          "Pay Period": "Monthly",
+          "Amount": 5
+        },
+        {
+          "State": "Alaska",
+          "Type": "Student default loan",
+          "Pay Period": "Weekly",
+          "Amount": 0
+        },
+        {
+          "State": "Alaska",
+          "Type": "Student default loan",
+          "Pay Period": "Biweekly",
+          "Amount": 0
+        },
+        {
+          "State": "Alaska",
+          "Type": "Student default loan",
+          "Pay Period": "Semimonthly",
+          "Amount": 0
+        },
+        {
+          "State": "Alaska",
+          "Type": "Student default loan",
+          "Pay Period": "Monthly",
+          "Amount": 0
+        },
+        {
+          "State": "Alaska",
+          "Type": "Federal Tax",
+          "Pay Period": "Weekly",
+          "Amount": 0
+        },
+        {
+          "State": "Alaska",
+          "Type": "Federal Tax",
+          "Pay Period": "Biweekly",
+          "Amount": 0
+        },
+        {
+          "State": "Alaska",
+          "Type": "Federal Tax",
+          "Pay Period": "Semimonthly",
+          "Amount": 0
+        },
+        {
+          "State": "Alaska",
+          "Type": "Federal Tax",
+          "Pay Period": "Monthly",
+          "Amount": 0
+        }
+      ]
+      
+  }
+  

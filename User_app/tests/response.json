@@ -1,0 +1,3059 @@
+{
+    "message": "Result Generated Successfully",
+    "status_code": 200,
+    "batch_id": "B690R",
+    "results": [
+        {
+            "ee_id": "EE005164",
+            "work_state": "New Jersey",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "married_filling_joint",
+            "wages": 0,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 0,
+            "payroll_taxes": {
+                "federal_income_tax": 0.0,
+                "social_security_tax": 0.0,
+                "medicare_tax": 0.0,
+                "state_tax": 0.0,
+                "local_tax": 0.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 0.0,
+            "age": 50,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 61,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "State tax levy",
+                    "data": [
+                        {
+                            "case_id": "C24407",
+                            "ordered_amount": 0,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "garnishment_amount": "Garnishment cannot be deducted due to insufficient pay"
+                        }
+                    ]
+                }
+            ],
+            "ER_deduction": {
+                "garnishment_fees": "Garnishment fees cannot be deducted due to insufficient pay"
+            }
+        },
+        {
+            "ee_id": "EE005158",
+            "work_state": "Massachusetts",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "head_of_household",
+            "wages": 2500,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 2500,
+            "payroll_taxes": {
+                "federal_income_tax": 110.0,
+                "social_security_tax": 91.0,
+                "medicare_tax": 90.0,
+                "state_tax": 78.98,
+                "local_tax": 66.0,
+                "union_dues": 36,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 2000.02,
+            "age": 37,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 38,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "State tax levy",
+                    "data": [
+                        {
+                            "case_id": "C24401",
+                            "ordered_amount": 0,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "garnishment_amount": "Garnishment cannot be deducted due to insufficient pay"
+                        }
+                    ]
+                }
+            ],
+            "ER_deduction": {
+                "garnishment_fees": "Garnishment fees cannot be deducted due to insufficient pay"
+            }
+        },
+        {
+            "ee_id": "EE005169",
+            "work_state": "Utah",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "married_filling_joint",
+            "wages": 750,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 750,
+            "payroll_taxes": {
+                "federal_income_tax": 0.0,
+                "social_security_tax": 0.0,
+                "medicare_tax": 0.0,
+                "state_tax": 0.0,
+                "local_tax": 0.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 750.0,
+            "age": 45,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 59,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "State tax levy",
+                    "data": [
+                        {
+                            "case_id": "C24412",
+                            "ordered_amount": 0,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "garnishment_amount": 187.5
+                        }
+                    ]
+                }
+            ],
+            "ER_deduction": {
+                "garnishment_fees": "No Provision"
+            }
+        },
+        {
+            "ee_id": "EE005166",
+            "work_state": "North Carolina",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "married_filling_joint",
+            "wages": 1500,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 1500,
+            "payroll_taxes": {
+                "federal_income_tax": 0.0,
+                "social_security_tax": 0.0,
+                "medicare_tax": 0.0,
+                "state_tax": 0.0,
+                "local_tax": 0.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 1500.0,
+            "age": 32,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 62,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "State tax levy",
+                    "data": [
+                        {
+                            "case_id": "C24409",
+                            "ordered_amount": 0,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "garnishment_amount": 150.0
+                        }
+                    ]
+                }
+            ],
+            "ER_deduction": {
+                "garnishment_fees": "No Provision"
+            }
+        },
+        {
+            "ee_id": "EE005159",
+            "work_state": "Minnesota",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "head_of_household",
+            "wages": 750,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 750,
+            "payroll_taxes": {
+                "federal_income_tax": 0.0,
+                "social_security_tax": 0.0,
+                "medicare_tax": 0.0,
+                "state_tax": 0.0,
+                "local_tax": 0.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 750.0,
+            "age": 30,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 31,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "State tax levy",
+                    "data": [
+                        {
+                            "case_id": "C24402",
+                            "ordered_amount": 0,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "garnishment_amount": 187.5
+                        }
+                    ]
+                }
+            ],
+            "ER_deduction": {
+                "garnishment_fees": "No Provision"
+            }
+        },
+        {
+            "ee_id": "EE005157",
+            "work_state": "Louisiana",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "single",
+            "wages": 800,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 800,
+            "payroll_taxes": {
+                "federal_income_tax": 98.76,
+                "social_security_tax": 90.0,
+                "medicare_tax": 89.0,
+                "state_tax": 120.11,
+                "local_tax": 65.0,
+                "union_dues": 22,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 295.13,
+            "age": 52,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 60,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "State tax levy",
+                    "data": [
+                        {
+                            "case_id": "C24400",
+                            "ordered_amount": 0,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "garnishment_amount": 84.28
+                        }
+                    ]
+                }
+            ],
+            "ER_deduction": {
+                "garnishment_fees": "No Provision"
+            }
+        },
+        {
+            "ee_id": "EE005154",
+            "work_state": "Illinois",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "head_of_household",
+            "wages": 1250,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 1250,
+            "payroll_taxes": {
+                "federal_income_tax": 100.98,
+                "social_security_tax": 87.0,
+                "medicare_tax": 65.0,
+                "state_tax": 87.0,
+                "local_tax": 62.0,
+                "union_dues": 33,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 796.02,
+            "age": 46,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 46,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "State tax levy",
+                    "data": [
+                        {
+                            "case_id": "C24397",
+                            "ordered_amount": 0,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "garnishment_amount": 187.5
+                        }
+                    ]
+                }
+            ],
+            "ER_deduction": {
+                "garnishment_fees": "No Provision"
+            }
+        },
+        {
+            "ee_id": "EE005152",
+            "work_state": "Hawaii",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "married_filling_separate",
+            "wages": 1200,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 1200,
+            "payroll_taxes": {
+                "federal_income_tax": 120.0,
+                "social_security_tax": 65.0,
+                "medicare_tax": 47.0,
+                "state_tax": 89.0,
+                "local_tax": 60.0,
+                "union_dues": 26,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 761.0,
+            "age": 25,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 39,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "State tax levy",
+                    "data": [
+                        {
+                            "case_id": "C24395",
+                            "ordered_amount": 0,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "garnishment_amount": 204.75
+                        }
+                    ]
+                }
+            ],
+            "ER_deduction": {
+                "garnishment_fees": "No Provision"
+            }
+        },
+        {
+            "ee_id": "EE005162",
+            "work_state": "Montana",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "single",
+            "wages": 1470,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 1470,
+            "payroll_taxes": {
+                "federal_income_tax": 0.0,
+                "social_security_tax": 0.0,
+                "medicare_tax": 0.0,
+                "state_tax": 0.0,
+                "local_tax": 0.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 1470.0,
+            "age": 57,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 41,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "State tax levy",
+                    "data": [
+                        {
+                            "case_id": "C24405",
+                            "ordered_amount": 0,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "garnishment_amount": 367.5
+                        }
+                    ]
+                }
+            ],
+            "ER_deduction": {
+                "garnishment_fees": "No Provision"
+            }
+        },
+        {
+            "ee_id": "EE005165",
+            "work_state": "New York",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "married_filling_joint",
+            "wages": 1200,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 1200,
+            "payroll_taxes": {
+                "federal_income_tax": 0.0,
+                "social_security_tax": 0.0,
+                "medicare_tax": 0.0,
+                "state_tax": 0.0,
+                "local_tax": 0.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 1200.0,
+            "age": 21,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 35,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "State tax levy",
+                    "data": [
+                        {
+                            "case_id": "C24408",
+                            "ordered_amount": 0,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "garnishment_amount": 120.0
+                        }
+                    ]
+                }
+            ],
+            "ER_deduction": {
+                "garnishment_fees": "No Provision"
+            }
+        },
+        {
+            "ee_id": "EE005160",
+            "work_state": "Mississippi",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "married_filling_joint",
+            "wages": 1150,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 1150,
+            "payroll_taxes": {
+                "federal_income_tax": 0.0,
+                "social_security_tax": 0.0,
+                "medicare_tax": 0.0,
+                "state_tax": 0.0,
+                "local_tax": 0.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 1150.0,
+            "age": 59,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 37,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "State tax levy",
+                    "data": [
+                        {
+                            "case_id": "C24403",
+                            "ordered_amount": 0,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "garnishment_amount": 287.5
+                        }
+                    ]
+                }
+            ],
+            "ER_deduction": {
+                "garnishment_fees": "No Provision"
+            }
+        },
+        {
+            "ee_id": "EE005153",
+            "work_state": "Idaho",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "married_filling_joint",
+            "wages": 1000,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 1000,
+            "payroll_taxes": {
+                "federal_income_tax": 105.35,
+                "social_security_tax": 45.0,
+                "medicare_tax": 76.0,
+                "state_tax": 73.0,
+                "local_tax": 61.0,
+                "union_dues": 32,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 595.87,
+            "age": 39,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 46,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "State tax levy",
+                    "data": [
+                        {
+                            "case_id": "C24396",
+                            "ordered_amount": 0,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "garnishment_amount": 595.87
+                        }
+                    ]
+                }
+            ],
+            "ER_deduction": {
+                "garnishment_fees": "No Provision"
+            }
+        },
+        {
+            "ee_id": "EE005156",
+            "work_state": "Iowa",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "head_of_household",
+            "wages": 960,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 960,
+            "payroll_taxes": {
+                "federal_income_tax": 98.65,
+                "social_security_tax": 89.0,
+                "medicare_tax": 88.0,
+                "state_tax": 88.9,
+                "local_tax": 64.0,
+                "union_dues": 35,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 456.45,
+            "age": 30,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 53,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "State tax levy",
+                    "data": [
+                        {
+                            "case_id": "C24399",
+                            "ordered_amount": 0,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "garnishment_amount": 240.0
+                        }
+                    ]
+                }
+            ],
+            "ER_deduction": {
+                "garnishment_fees": "One time fee of $25 deducted from employee earnings"
+            }
+        },
+        {
+            "ee_id": "EE005167",
+            "work_state": "Oregon",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "married_filling_joint",
+            "wages": 900,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 900,
+            "payroll_taxes": {
+                "federal_income_tax": 0.0,
+                "social_security_tax": 0.0,
+                "medicare_tax": 0.0,
+                "state_tax": 0.0,
+                "local_tax": 0.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 900.0,
+            "age": 57,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 55,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "State tax levy",
+                    "data": [
+                        {
+                            "case_id": "C24410",
+                            "ordered_amount": 0,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "garnishment_amount": 225.0
+                        }
+                    ]
+                }
+            ],
+            "ER_deduction": {
+                "garnishment_fees": "$2 for each deduction taken after the levy has expired or is released"
+            }
+        },
+        {
+            "ee_id": "EE005149",
+            "work_state": "Delaware",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "head_of_household",
+            "wages": 1500,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 1500,
+            "payroll_taxes": {
+                "federal_income_tax": 104.8,
+                "social_security_tax": 123.0,
+                "medicare_tax": 78.0,
+                "state_tax": 56.0,
+                "local_tax": 57.0,
+                "union_dues": 21,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 1040.2,
+            "age": 21,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 43,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "State tax levy",
+                    "data": [
+                        {
+                            "case_id": "C24392",
+                            "ordered_amount": 0,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "garnishment_amount": 265.05
+                        }
+                    ]
+                }
+            ],
+            "ER_deduction": {
+                "garnishment_fees": "No Provision"
+            }
+        },
+        {
+            "ee_id": "EE005130",
+            "work_state": "Florida",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "single",
+            "wages": 950,
+            "commission_and_bonus": 541,
+            "non_accountable_allowances": 0,
+            "gross_pay": 1482,
+            "payroll_taxes": {
+                "federal_income_tax": 300.0,
+                "social_security_tax": 35.8,
+                "medicare_tax": 18.0,
+                "state_tax": 13.0,
+                "local_tax": 0.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 1115.2,
+            "age": 64,
+            "is_blind": true,
+            "is_spouse_blind": false,
+            "spouse_age": 30,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "Child Support",
+                    "data": [
+                        {
+                            "case_id": "C18326",
+                            "ordered_amount": 170,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "child_support": 170
+                        }
+                    ]
+                },
+                {
+                    "Arrear": [
+                        {
+                            "arrear_amount": 0
+                        }
+                    ]
+                }
+            ],
+            "er_deduction": {
+                "garnishment_fees": "$2, Payable by Employee"
+            },
+            "disposable_earning": 1124.2,
+            "withholding_limit_rule": "Rule_1"
+        },
+        {
+            "ee_id": "EE005131",
+            "work_state": "Florida",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "head_of_household",
+            "wages": 1650,
+            "commission_and_bonus": 644,
+            "non_accountable_allowances": 0,
+            "gross_pay": 2145,
+            "payroll_taxes": {
+                "federal_income_tax": 260.0,
+                "social_security_tax": 35.0,
+                "medicare_tax": 20.0,
+                "state_tax": 35.0,
+                "local_tax": 12.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 1783.0,
+            "age": 47,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 59,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "Child Support",
+                    "data": [
+                        {
+                            "case_id": "C18390",
+                            "ordered_amount": 54,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "child_support": 54
+                        }
+                    ]
+                },
+                {
+                    "Arrear": [
+                        {
+                            "arrear_amount": 0
+                        }
+                    ]
+                }
+            ],
+            "er_deduction": {
+                "garnishment_fees": "$2, Payable by Employee"
+            },
+            "disposable_earning": 1932.0,
+            "withholding_limit_rule": "Rule_1"
+        },
+        {
+            "ee_id": "EE005144",
+            "work_state": "Pennsylvania",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "married_filling_joint",
+            "wages": 2900,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 2811,
+            "payroll_taxes": {
+                "federal_income_tax": 230.0,
+                "social_security_tax": 55.0,
+                "medicare_tax": 17.94,
+                "state_tax": 20.0,
+                "local_tax": 7.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 2481.06,
+            "age": 40,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 38,
+            "support_second_family": "Yes",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "Yes",
+            "garnishment_data": [
+                {
+                    "type": "Child Support",
+                    "data": [
+                        {
+                            "case_id": "C24385",
+                            "ordered_amount": 150,
+                            "arrear_amount": 10,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        },
+                        {
+                            "case_id": "C24386",
+                            "ordered_amount": 120,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "child_support": 150
+                        },
+                        {
+                            "child_support": 120
+                        }
+                    ]
+                },
+                {
+                    "Arrear": [
+                        {
+                            "arrear_amount": 10
+                        },
+                        {
+                            "arrear_amount": 0
+                        }
+                    ]
+                }
+            ],
+            "er_deduction": {
+                "garnishment_fees": "$5.6, Payable by Employee"
+            },
+            "disposable_earning": 2570.06,
+            "withholding_limit_rule": "Rule_1"
+        },
+        {
+            "ee_id": "EE005147",
+            "work_state": "Arkansas",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "single",
+            "wages": 2500,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 2500,
+            "payroll_taxes": {
+                "federal_income_tax": 100.0,
+                "social_security_tax": 100.0,
+                "medicare_tax": 56.0,
+                "state_tax": 80.0,
+                "local_tax": 56.0,
+                "union_dues": 20,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 2058.0,
+            "age": 45,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 18,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "State tax levy",
+                    "data": [
+                        {
+                            "case_id": "C24390",
+                            "ordered_amount": 0,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "garnishment_amount": 527.0
+                        }
+                    ]
+                }
+            ],
+            "ER_deduction": {
+                "garnishment_fees": "No Provision"
+            }
+        },
+        {
+            "ee_id": "EE005137",
+            "work_state": "Texas",
+            "no_of_exemption_including_self": 7,
+            "pay_period": "Weekly",
+            "filing_status": "single",
+            "wages": 550,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 303,
+            "gross_pay": 853,
+            "payroll_taxes": {
+                "federal_income_tax": 120.0,
+                "social_security_tax": 74.4,
+                "medicare_tax": 17.4,
+                "state_tax": 36.0,
+                "local_tax": 15.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 590.2,
+            "age": 53,
+            "is_blind": true,
+            "is_spouse_blind": false,
+            "spouse_age": 32,
+            "support_second_family": "Yes",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "Child Support",
+                    "data": [
+                        {
+                            "case_id": "C24371",
+                            "ordered_amount": 120,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "child_support": 120
+                        }
+                    ]
+                },
+                {
+                    "Arrear": [
+                        {
+                            "arrear_amount": 0
+                        }
+                    ]
+                }
+            ],
+            "er_deduction": {
+                "garnishment_fees": "$2.31, Payable by Employee"
+            },
+            "disposable_earning": 590.2,
+            "withholding_limit_rule": "Rule_3"
+        },
+        {
+            "ee_id": "EE005141",
+            "work_state": "Alabama",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "married_filling_joint",
+            "wages": 2400,
+            "commission_and_bonus": 552,
+            "non_accountable_allowances": 0,
+            "gross_pay": 2952,
+            "payroll_taxes": {
+                "federal_income_tax": 180.0,
+                "social_security_tax": 45.0,
+                "medicare_tax": 12.0,
+                "state_tax": 30.0,
+                "local_tax": 0.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 2685.0,
+            "age": 34,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 30,
+            "support_second_family": "Yes",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "Child Support",
+                    "data": [
+                        {
+                            "case_id": "C24379",
+                            "ordered_amount": 80,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        },
+                        {
+                            "case_id": "C24380",
+                            "ordered_amount": 70,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "child_support": 80
+                        },
+                        {
+                            "child_support": 70
+                        }
+                    ]
+                },
+                {
+                    "Arrear": [
+                        {
+                            "arrear_amount": 0
+                        },
+                        {
+                            "arrear_amount": 0
+                        }
+                    ]
+                }
+            ],
+            "er_deduction": {
+                "garnishment_fees": "$0.46, Payable by Employee"
+            },
+            "disposable_earning": 2685.0,
+            "withholding_limit_rule": "Rule_1"
+        },
+        {
+            "ee_id": "EE005151",
+            "work_state": "Georgia",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "head_of_household",
+            "wages": 1300,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 1300,
+            "payroll_taxes": {
+                "federal_income_tax": 99.34,
+                "social_security_tax": 56.0,
+                "medicare_tax": 56.0,
+                "state_tax": 90.0,
+                "local_tax": 59.0,
+                "union_dues": 23,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 891.66,
+            "age": 40,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 25,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "State tax levy",
+                    "data": [
+                        {
+                            "case_id": "C24394",
+                            "ordered_amount": 0,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "garnishment_amount": 234.91
+                        }
+                    ]
+                }
+            ],
+            "ER_deduction": {
+                "garnishment_fees": 0
+            }
+        },
+        {
+            "ee_id": "EE005126",
+            "work_state": "Alabama",
+            "no_of_exemption_including_self": 2,
+            "pay_period": "Weekly",
+            "filing_status": "married_filling_separate",
+            "wages": 1000,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 1000,
+            "payroll_taxes": {
+                "federal_income_tax": 180.0,
+                "social_security_tax": 45.0,
+                "medicare_tax": 12.0,
+                "state_tax": 30.0,
+                "local_tax": 0.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 733.0,
+            "age": 50,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 48,
+            "support_second_family": "Yes",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "Child Support",
+                    "data": [
+                        {
+                            "case_id": "C17685",
+                            "ordered_amount": 280,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "child_support": 280
+                        }
+                    ]
+                },
+                {
+                    "Arrear": [
+                        {
+                            "arrear_amount": 0
+                        }
+                    ]
+                }
+            ],
+            "er_deduction": {
+                "garnishment_fees": "$0.46, Payable by Employee"
+            },
+            "disposable_earning": 733.0,
+            "withholding_limit_rule": "Rule_1"
+        },
+        {
+            "ee_id": "EE005127",
+            "work_state": "Washington",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "single",
+            "wages": 1750,
+            "commission_and_bonus": 653,
+            "non_accountable_allowances": 0,
+            "gross_pay": 2403,
+            "payroll_taxes": {
+                "federal_income_tax": 200.0,
+                "social_security_tax": 32.0,
+                "medicare_tax": 20.0,
+                "state_tax": 12.0,
+                "local_tax": 13.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 2126.0,
+            "age": 38,
+            "is_blind": true,
+            "is_spouse_blind": false,
+            "spouse_age": 30,
+            "support_second_family": "Yes",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "Child Support",
+                    "data": [
+                        {
+                            "case_id": "C17941",
+                            "ordered_amount": 250,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "child_support": 250
+                        }
+                    ]
+                },
+                {
+                    "Arrear": [
+                        {
+                            "arrear_amount": 0
+                        }
+                    ]
+                }
+            ],
+            "er_deduction": {
+                "garnishment_fees": "$1, Payable by Employee"
+            },
+            "disposable_earning": 2126.0,
+            "withholding_limit_rule": "Rule_3"
+        },
+        {
+            "ee_id": "EE005155",
+            "work_state": "Indiana",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "married_filling_joint",
+            "wages": 1550,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 1550,
+            "payroll_taxes": {
+                "federal_income_tax": 130.23,
+                "social_security_tax": 88.0,
+                "medicare_tax": 87.0,
+                "state_tax": 67.0,
+                "local_tax": 63.0,
+                "union_dues": 31,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 1048.77,
+            "age": 48,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 46,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "State tax levy",
+                    "data": [
+                        {
+                            "case_id": "C24398",
+                            "ordered_amount": 0,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "garnishment_amount": 278.69
+                        }
+                    ]
+                }
+            ],
+            "ER_deduction": {
+                "garnishment_fees": "$12, Payable by Employee"
+            }
+        },
+        {
+            "ee_id": "EE005146",
+            "work_state": "Alabama",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "married_filling_separate",
+            "wages": 2000,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 2000,
+            "payroll_taxes": {
+                "federal_income_tax": 95.0,
+                "social_security_tax": 58.0,
+                "medicare_tax": 65.0,
+                "state_tax": 85.0,
+                "local_tax": 55.0,
+                "union_dues": 30,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 80,
+                "industrial_insurance": 47,
+                "life_insurance": 50,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 1400.0,
+            "age": 43,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 36,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "State tax levy",
+                    "data": [
+                        {
+                            "case_id": "C24389",
+                            "ordered_amount": 0,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "garnishment_amount": 500.0
+                        }
+                    ]
+                }
+            ],
+            "ER_deduction": {
+                "garnishment_fees": "No Provision"
+            }
+        },
+        {
+            "ee_id": "EE005163",
+            "work_state": "New Mexico",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "single",
+            "wages": 1350,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 1350,
+            "payroll_taxes": {
+                "federal_income_tax": 0.0,
+                "social_security_tax": 0.0,
+                "medicare_tax": 0.0,
+                "state_tax": 0.0,
+                "local_tax": 0.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 1350.0,
+            "age": 44,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 55,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "State tax levy",
+                    "data": [
+                        {
+                            "case_id": "C24406",
+                            "ordered_amount": 0,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "garnishment_amount": 337.5
+                        }
+                    ]
+                }
+            ],
+            "ER_deduction": {
+                "garnishment_fees": "No Provision"
+            }
+        },
+        {
+            "ee_id": "EE005168",
+            "work_state": "Pennsylvania",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "married_filling_joint",
+            "wages": 800,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 800,
+            "payroll_taxes": {
+                "federal_income_tax": 0.0,
+                "social_security_tax": 0.0,
+                "medicare_tax": 0.0,
+                "state_tax": 0.0,
+                "local_tax": 0.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 800.0,
+            "age": 57,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 45,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "State tax levy",
+                    "data": [
+                        {
+                            "case_id": "C24411",
+                            "ordered_amount": 0,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "garnishment_amount": 80.0
+                        }
+                    ]
+                }
+            ],
+            "ER_deduction": {
+                "garnishment_fees": "$1.6, Payable by Employee"
+            }
+        },
+        {
+            "ee_id": "EE005143",
+            "work_state": "Alabama",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "married_filling_joint",
+            "wages": 2500,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 2500,
+            "payroll_taxes": {
+                "federal_income_tax": 140.0,
+                "social_security_tax": 73.0,
+                "medicare_tax": 15.32,
+                "state_tax": 33.0,
+                "local_tax": 5.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 2233.68,
+            "age": 48,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 45,
+            "support_second_family": "Yes",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "Child Support",
+                    "data": [
+                        {
+                            "case_id": "C24383",
+                            "ordered_amount": 85,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        },
+                        {
+                            "case_id": "C24384",
+                            "ordered_amount": 70,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "child_support": 85
+                        },
+                        {
+                            "child_support": 70
+                        }
+                    ]
+                },
+                {
+                    "Arrear": [
+                        {
+                            "arrear_amount": 0
+                        },
+                        {
+                            "arrear_amount": 0
+                        }
+                    ]
+                }
+            ],
+            "er_deduction": {
+                "garnishment_fees": "$0.46, Payable by Employee"
+            },
+            "disposable_earning": 2233.68,
+            "withholding_limit_rule": "Rule_1"
+        },
+        {
+            "ee_id": "EE005135",
+            "work_state": "New York",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "married_filling_joint",
+            "wages": 570,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 570,
+            "payroll_taxes": {
+                "federal_income_tax": 80.0,
+                "social_security_tax": 49.6,
+                "medicare_tax": 11.6,
+                "state_tax": 0.0,
+                "local_tax": 0.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 428.8,
+            "age": 53,
+            "is_blind": false,
+            "is_spouse_blind": true,
+            "spouse_age": 50,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "Child Support",
+                    "data": [
+                        {
+                            "case_id": "C18903",
+                            "ordered_amount": 95,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "child_support": 95
+                        }
+                    ]
+                },
+                {
+                    "Arrear": [
+                        {
+                            "arrear_amount": 0
+                        }
+                    ]
+                }
+            ],
+            "er_deduction": {
+                "garnishment_fees": "No Provision"
+            },
+            "disposable_earning": 428.8,
+            "withholding_limit_rule": "Rule_1"
+        },
+        {
+            "ee_id": "EE005129",
+            "work_state": "Pennsylvania",
+            "no_of_exemption_including_self": 3,
+            "pay_period": "Weekly",
+            "filing_status": "head_of_household",
+            "wages": 550,
+            "commission_and_bonus": 686,
+            "non_accountable_allowances": 0,
+            "gross_pay": 1172,
+            "payroll_taxes": {
+                "federal_income_tax": 230.0,
+                "social_security_tax": 55.0,
+                "medicare_tax": 17.94,
+                "state_tax": 20.0,
+                "local_tax": 7.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 842.06,
+            "age": 40,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 37,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "Child Support",
+                    "data": [
+                        {
+                            "case_id": "C18322",
+                            "ordered_amount": 140,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "child_support": 140
+                        }
+                    ]
+                },
+                {
+                    "Arrear": [
+                        {
+                            "arrear_amount": 0
+                        }
+                    ]
+                }
+            ],
+            "er_deduction": {
+                "garnishment_fees": "$2.8, Payable by Employee"
+            },
+            "disposable_earning": 906.06,
+            "withholding_limit_rule": "Rule_1"
+        },
+        {
+            "ee_id": "EE005133",
+            "work_state": "Illinois",
+            "no_of_exemption_including_self": 2,
+            "pay_period": "Weekly",
+            "filing_status": "married_filling_joint",
+            "wages": 2800,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 2751,
+            "payroll_taxes": {
+                "federal_income_tax": 59.8,
+                "social_security_tax": 99.2,
+                "medicare_tax": 12.18,
+                "state_tax": 10.6,
+                "local_tax": 8.9,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 2560.32,
+            "age": 48,
+            "is_blind": true,
+            "is_spouse_blind": false,
+            "spouse_age": 57,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "Child Support",
+                    "data": [
+                        {
+                            "case_id": "C18674",
+                            "ordered_amount": 60,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "child_support": 60
+                        }
+                    ]
+                },
+                {
+                    "Arrear": [
+                        {
+                            "arrear_amount": 0
+                        }
+                    ]
+                }
+            ],
+            "er_deduction": {
+                "garnishment_fees": "$1.15, Payable by Employee"
+            },
+            "disposable_earning": 2609.32,
+            "withholding_limit_rule": "Rule_1"
+        },
+        {
+            "ee_id": "EE005132",
+            "work_state": "Georgia",
+            "no_of_exemption_including_self": 2,
+            "pay_period": "Weekly",
+            "filing_status": "married_filling_separate",
+            "wages": 1200,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 1150,
+            "payroll_taxes": {
+                "federal_income_tax": 160.0,
+                "social_security_tax": 45.0,
+                "medicare_tax": 10.5,
+                "state_tax": 15.0,
+                "local_tax": 0.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 919.5,
+            "age": 61,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 52,
+            "support_second_family": "Yes",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "Child Support",
+                    "data": [
+                        {
+                            "case_id": "C18392",
+                            "ordered_amount": 90,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "child_support": 90
+                        }
+                    ]
+                },
+                {
+                    "Arrear": [
+                        {
+                            "arrear_amount": 0
+                        }
+                    ]
+                }
+            ],
+            "er_deduction": {
+                "garnishment_fees": "$3, Payable by Employee"
+            },
+            "disposable_earning": 969.5,
+            "withholding_limit_rule": "Rule_1"
+        },
+        {
+            "ee_id": "EE005140",
+            "work_state": "Texas",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "single",
+            "wages": 2450,
+            "commission_and_bonus": 532,
+            "non_accountable_allowances": 0,
+            "gross_pay": 2982,
+            "payroll_taxes": {
+                "federal_income_tax": 250.0,
+                "social_security_tax": 56.0,
+                "medicare_tax": 13.5,
+                "state_tax": 25.0,
+                "local_tax": 0.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 2637.5,
+            "age": 55,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 52,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "Child Support",
+                    "data": [
+                        {
+                            "case_id": "C24377",
+                            "ordered_amount": 130,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        },
+                        {
+                            "case_id": "C24378",
+                            "ordered_amount": 70,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "child_support": 130
+                        },
+                        {
+                            "child_support": 70
+                        }
+                    ]
+                },
+                {
+                    "Arrear": [
+                        {
+                            "arrear_amount": 0
+                        },
+                        {
+                            "arrear_amount": 0
+                        }
+                    ]
+                }
+            ],
+            "er_deduction": {
+                "garnishment_fees": "$2.31, Payable by Employee"
+            },
+            "disposable_earning": 2637.5,
+            "withholding_limit_rule": "Rule_3"
+        },
+        {
+            "ee_id": "EE005150",
+            "work_state": "California",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "single",
+            "wages": 1450,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 1450,
+            "payroll_taxes": {
+                "federal_income_tax": 87.56,
+                "social_security_tax": 77.0,
+                "medicare_tax": 98.0,
+                "state_tax": 79.0,
+                "local_tax": 58.0,
+                "union_dues": 22,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 1004.44,
+            "age": 43,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 63,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "State tax levy",
+                    "data": [
+                        {
+                            "case_id": "C24393",
+                            "ordered_amount": 0,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "garnishment_amount": 257.11
+                        }
+                    ]
+                }
+            ],
+            "ER_deduction": {
+                "garnishment_fees": "No Provision"
+            }
+        },
+        {
+            "ee_id": "EE005139",
+            "work_state": "Florida",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "married_filling_joint",
+            "wages": 1200,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 1200,
+            "payroll_taxes": {
+                "federal_income_tax": 180.0,
+                "social_security_tax": 62.0,
+                "medicare_tax": 12.4,
+                "state_tax": 23.0,
+                "local_tax": 0.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 922.6,
+            "age": 50,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 45,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "Yes",
+            "garnishment_data": [
+                {
+                    "type": "Child Support",
+                    "data": [
+                        {
+                            "case_id": "C24375",
+                            "ordered_amount": 100,
+                            "arrear_amount": 10,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        },
+                        {
+                            "case_id": "C24376",
+                            "ordered_amount": 110,
+                            "arrear_amount": 15,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "child_support": 100
+                        },
+                        {
+                            "child_support": 110
+                        }
+                    ]
+                },
+                {
+                    "Arrear": [
+                        {
+                            "arrear_amount": 10
+                        },
+                        {
+                            "arrear_amount": 15
+                        }
+                    ]
+                }
+            ],
+            "er_deduction": {
+                "garnishment_fees": "$2, Payable by Employee"
+            },
+            "disposable_earning": 922.6,
+            "withholding_limit_rule": "Rule_1"
+        },
+        {
+            "ee_id": "EE005161",
+            "work_state": "Missouri",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "married_filling_joint",
+            "wages": 2350,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 2350,
+            "payroll_taxes": {
+                "federal_income_tax": 0.0,
+                "social_security_tax": 0.0,
+                "medicare_tax": 0.0,
+                "state_tax": 0.0,
+                "local_tax": 0.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 2350.0,
+            "age": 52,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 60,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "State tax levy",
+                    "data": [
+                        {
+                            "case_id": "C24404",
+                            "ordered_amount": 0,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "garnishment_amount": 587.5
+                        }
+                    ]
+                }
+            ],
+            "ER_deduction": {
+                "garnishment_fees": "No Provision"
+            }
+        },
+        {
+            "ee_id": "EE005145",
+            "work_state": "California",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "married_filling_joint",
+            "wages": 1950,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 1950,
+            "payroll_taxes": {
+                "federal_income_tax": 300.0,
+                "social_security_tax": 35.8,
+                "medicare_tax": 18.0,
+                "state_tax": 13.0,
+                "local_tax": 0.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 1583.2,
+            "age": 35,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 33,
+            "support_second_family": "No",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "Yes",
+            "garnishment_data": [
+                {
+                    "type": "Child Support",
+                    "data": [
+                        {
+                            "case_id": "C24387",
+                            "ordered_amount": 100,
+                            "arrear_amount": 10,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        },
+                        {
+                            "case_id": "C24388",
+                            "ordered_amount": 80,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "child_support": 100
+                        },
+                        {
+                            "child_support": 80
+                        }
+                    ]
+                },
+                {
+                    "Arrear": [
+                        {
+                            "arrear_amount": 10
+                        },
+                        {
+                            "arrear_amount": 0
+                        }
+                    ]
+                }
+            ],
+            "er_deduction": {
+                "garnishment_fees": "$1.5, Payable by Employee"
+            },
+            "disposable_earning": 1583.2,
+            "withholding_limit_rule": "Rule_3"
+        },
+        {
+            "ee_id": "EE005134",
+            "work_state": "Florida",
+            "no_of_exemption_including_self": 4,
+            "pay_period": "Weekly",
+            "filing_status": "head_of_household",
+            "wages": 850,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 850,
+            "payroll_taxes": {
+                "federal_income_tax": 60.0,
+                "social_security_tax": 78.9,
+                "medicare_tax": 45.76,
+                "state_tax": 13.0,
+                "local_tax": 12.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 640.34,
+            "age": 47,
+            "is_blind": true,
+            "is_spouse_blind": false,
+            "spouse_age": 44,
+            "support_second_family": "Yes",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "Child Support",
+                    "data": [
+                        {
+                            "case_id": "C18675",
+                            "ordered_amount": 90,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "child_support": 90
+                        }
+                    ]
+                },
+                {
+                    "Arrear": [
+                        {
+                            "arrear_amount": 0
+                        }
+                    ]
+                }
+            ],
+            "er_deduction": {
+                "garnishment_fees": "$2, Payable by Employee"
+            },
+            "disposable_earning": 640.34,
+            "withholding_limit_rule": "Rule_1"
+        },
+        {
+            "ee_id": "EE005138",
+            "work_state": "California",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "head_of_household",
+            "wages": 700,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 659,
+            "payroll_taxes": {
+                "federal_income_tax": 95.0,
+                "social_security_tax": 58.9,
+                "medicare_tax": 13.8,
+                "state_tax": 0.0,
+                "local_tax": 0.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 491.3,
+            "age": 63,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 57,
+            "support_second_family": "Yes",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "Yes",
+            "garnishment_data": [
+                {
+                    "type": "Child Support",
+                    "data": [
+                        {
+                            "case_id": "C24373",
+                            "ordered_amount": 80,
+                            "arrear_amount": 10,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        },
+                        {
+                            "case_id": "C24374",
+                            "ordered_amount": 55,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "child_support": 80
+                        },
+                        {
+                            "child_support": 55
+                        }
+                    ]
+                },
+                {
+                    "Arrear": [
+                        {
+                            "arrear_amount": 10
+                        },
+                        {
+                            "arrear_amount": 0
+                        }
+                    ]
+                }
+            ],
+            "er_deduction": {
+                "garnishment_fees": "$1.5, Payable by Employee"
+            },
+            "disposable_earning": 532.3,
+            "withholding_limit_rule": "Rule_3"
+        },
+        {
+            "ee_id": "EE005128",
+            "work_state": "California",
+            "no_of_exemption_including_self": 2,
+            "pay_period": "Weekly",
+            "filing_status": "married_filling_joint",
+            "wages": 2500,
+            "commission_and_bonus": 746,
+            "non_accountable_allowances": 0,
+            "gross_pay": 3116,
+            "payroll_taxes": {
+                "federal_income_tax": 140.0,
+                "social_security_tax": 73.0,
+                "medicare_tax": 15.32,
+                "state_tax": 33.0,
+                "local_tax": 5.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 2849.68,
+            "age": 55,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 52,
+            "support_second_family": "Yes",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "Child Support",
+                    "data": [
+                        {
+                            "case_id": "C17944",
+                            "ordered_amount": 88,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "child_support": 88
+                        }
+                    ]
+                },
+                {
+                    "Arrear": [
+                        {
+                            "arrear_amount": 0
+                        }
+                    ]
+                }
+            ],
+            "er_deduction": {
+                "garnishment_fees": "$1.5, Payable by Employee"
+            },
+            "disposable_earning": 2979.68,
+            "withholding_limit_rule": "Rule_3"
+        },
+        {
+            "ee_id": "EE005136",
+            "work_state": "Pennsylvania",
+            "no_of_exemption_including_self": 9,
+            "pay_period": "Weekly",
+            "filing_status": "head_of_household",
+            "wages": 1700,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 1700,
+            "payroll_taxes": {
+                "federal_income_tax": 100.0,
+                "social_security_tax": 62.0,
+                "medicare_tax": 14.5,
+                "state_tax": 0.0,
+                "local_tax": 0.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 1523.5,
+            "age": 47,
+            "is_blind": true,
+            "is_spouse_blind": false,
+            "spouse_age": 21,
+            "support_second_family": "Yes",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "No",
+            "garnishment_data": [
+                {
+                    "type": "Child Support",
+                    "data": [
+                        {
+                            "case_id": "C18907",
+                            "ordered_amount": 28,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "child_support": 28
+                        }
+                    ]
+                },
+                {
+                    "Arrear": [
+                        {
+                            "arrear_amount": 0
+                        }
+                    ]
+                }
+            ],
+            "er_deduction": {
+                "garnishment_fees": "$0.6, Payable by Employee"
+            },
+            "disposable_earning": 1523.5,
+            "withholding_limit_rule": "Rule_1"
+        },
+        {
+            "ee_id": "EE005142",
+            "work_state": "Florida",
+            "no_of_exemption_including_self": 1,
+            "pay_period": "Weekly",
+            "filing_status": "married_filling_joint",
+            "wages": 2400,
+            "commission_and_bonus": 0,
+            "non_accountable_allowances": 0,
+            "gross_pay": 2400,
+            "payroll_taxes": {
+                "federal_income_tax": 200.0,
+                "social_security_tax": 32.0,
+                "medicare_tax": 20.0,
+                "state_tax": 12.0,
+                "local_tax": 13.0,
+                "union_dues": 0,
+                "wilmington_tax": 0,
+                "medical_insurance_pretax": 0,
+                "industrial_insurance": 0,
+                "life_insurance": 0,
+                "CaliforniaSDI": 0,
+                "famli_tax": null
+            },
+            "payroll_deductions": {
+                "medical_insurance": null
+            },
+            "net_pay": 2123.0,
+            "age": 56,
+            "is_blind": false,
+            "is_spouse_blind": false,
+            "spouse_age": 48,
+            "support_second_family": "Yes",
+            "no_of_student_default_loan": 0,
+            "arrears_greater_than_12_weeks": "Yes",
+            "garnishment_data": [
+                {
+                    "type": "Child Support",
+                    "data": [
+                        {
+                            "case_id": "C24381",
+                            "ordered_amount": 100,
+                            "arrear_amount": 15,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        },
+                        {
+                            "case_id": "C24382",
+                            "ordered_amount": 80,
+                            "arrear_amount": 0,
+                            "current_medical_support": 0,
+                            "past_due_medical_support": 0,
+                            "current_spousal_support": 0,
+                            "past_due_spousal_support": 0
+                        }
+                    ]
+                }
+            ],
+            "agency": [
+                {
+                    "withholding_amt": [
+                        {
+                            "child_support": 100
+                        },
+                        {
+                            "child_support": 80
+                        }
+                    ]
+                },
+                {
+                    "Arrear": [
+                        {
+                            "arrear_amount": 15
+                        },
+                        {
+                            "arrear_amount": 0
+                        }
+                    ]
+                }
+            ],
+            "er_deduction": {
+                "garnishment_fees": "$2, Payable by Employee"
+            },
+            "disposable_earning": 2123.0,
+            "withholding_limit_rule": "Rule_1"
+        }
+    ]
+}

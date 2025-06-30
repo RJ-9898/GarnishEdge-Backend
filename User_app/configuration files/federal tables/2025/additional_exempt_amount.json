@@ -1,0 +1,77 @@
+{ "additional_exempt_amount":
+    [
+        {
+            "no_of_exemption_including_self": 1,
+            "filing_status": "single",
+            "daily": 7.69,
+            "weekly": 38.46,
+            "biweekly": 76.92,
+            "semimonthly": 83.33,
+            "monthly": 166.67
+        }, 
+          {
+            "no_of_exemption_including_self": 1,
+            "filing_status": "head_of_household",
+            "daily": 7.69,
+            "weekly": 38.46,
+            "biweekly": 76.92,
+            "semimonthly": 83.33,
+            "monthly": 166.67
+        },   
+        {
+            "no_of_exemption_including_self": 2,
+            "filing_status": "single",
+            "daily": 15.38,
+            "weekly": 76.92,
+            "biweekly": 153.85,
+            "semimonthly": 166.67,
+            "monthly": 333.33
+        },
+        {
+            "no_of_exemption_including_self": 2,
+            "filing_status":  "head_of_household",
+            "daily": 15.38,
+            "weekly": 76.92,
+            "biweekly": 153.85,
+            "semimonthly": 166.67,
+            "monthly": 333.33
+        },
+        {
+            "no_of_exemption_including_self": 1,
+            "filing_status": "Any Other Filing Status",
+            "daily": 6.15,
+            "weekly": 30.77,
+            "biweekly": 61.54,
+            "semimonthly": 66.67,
+            "monthly": 133.33
+        },
+        {
+            "no_of_exemption_including_self": 2,
+            "filing_status": "Any Other Filing Status",
+            "daily": 12.31,
+            "weekly": 61.54,
+            "biweekly": 123.08,
+            "semimonthly": 133.33,
+            "monthly": 266.67
+        },
+        {
+            "no_of_exemption_including_self": 3,
+            "filing_status": "Any Other Filing Status",
+            "daily": 18.46,
+            "weekly": 92.31,
+            "biweekly": 184.62,
+            "semimonthly": 200,
+            "monthly": 400
+        },
+        {
+            "no_of_exemption_including_self": 4,
+            "filing_status": "Any Other Filing Status",
+            "daily": 24.62,
+            "weekly": 123.08,
+            "biweekly": 246.15,
+            "semimonthly": 266.67,
+            "monthly": 533.33
+        }
+    ]
+    
+}
